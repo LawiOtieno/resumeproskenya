@@ -42,7 +42,7 @@ function App() {
         
         {/* WhatsApp Business Floating Icon */}
         <a 
-          href="https://wa.me/254706874794" 
+          href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" 
           className="fixed bottom-6 right-6 bg-green-500 text-white rounded-full p-4 shadow-lg z-50 hover:bg-green-600 transition-colors"
           aria-label="Contact via WhatsApp"
           target="_blank"

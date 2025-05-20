@@ -2,7 +2,7 @@
 export const services = [
   {
     id: "ats-cv",
-    name: "ATS-Compliant CV / Résumé",
+    name: "ATS-Compliant CV / Resumé",
     description: "A professionally formatted résumé designed to pass Applicant Tracking Systems, with strategic keyword placement and achievement-focused content.",
     price: 850,
     image: "https://i.imgur.com/m0giHCb.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250",

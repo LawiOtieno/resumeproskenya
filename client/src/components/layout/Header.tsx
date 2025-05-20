@@ -39,7 +39,7 @@ export default function Header() {
               <FaEnvelope className="mr-2" size={14} />
               ResumeProsKenya@gmail.com
             </a>
-            <a href="https://wa.me/254706874794" className="flex items-center text-sm hover:text-red-500 transition-colors">
+            <a href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" className="flex items-center text-sm hover:text-red-500 transition-colors">
               <FaWhatsapp className="mr-2" size={14} />
               +254 706874794
             </a>

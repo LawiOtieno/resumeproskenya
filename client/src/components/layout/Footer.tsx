@@ -28,7 +28,7 @@ export default function Footer() {
                 Resume<span className="text-red-600">Pros</span>Kenya
               </span>
             </Link>
-            <p className="mt-2 mb-4 text-gray-400">Elevating careers through expert documentation.</p>
+            <p className="mt-2 mb-4 text-gray-400">Elevating careers through professional Career Assistance.</p>
             
             {/* Social Media Icons */}
             <div className="flex flex-wrap gap-3">
@@ -130,7 +130,7 @@ export default function Footer() {
               <ul className="space-y-2">
                 <li className="text-gray-400">Ruaraka, Nairobi, Kenya</li>
                 <li><a href="mailto:ResumeProsKenya@gmail.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">ResumeProsKenya@gmail.com</a></li>
-                <li><a href="https://wa.me/254706874794" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">+254 706874794</a></li>
+                <li><a href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">+254 706874794</a></li>
               </ul>
             </div>
           </div>

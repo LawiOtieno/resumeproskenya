@@ -48,7 +48,7 @@ export default function Hero() {
       <div className="md:w-1/2 mb-10 md:mb-0">
         <h1 className="text-4xl md:text-5xl font-bold font-montserrat mb-4">
           Elevate Your Career with a{" "}
-          <span className="text-red-600">Winning Resume!</span>
+          <span className="text-red-600">Winning Resumé!</span>
         </h1>
 
         <div className="max-w-xl text-lg md:text-xl mb-8 min-h-[80px]">
@@ -59,7 +59,7 @@ export default function Hero() {
         </div>
 
         <a
-          href="https://wa.me/254706874794" target="_blank" rel="noopener noreferrer"
+          href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" target="_blank" rel="noopener noreferrer"
           className="inline-block bg-red-600 text-white font-montserrat font-semibold py-3 px-8 rounded-lg shadow-md hover:bg-red-700 transition-colors"
         >
           Start Your Journey Today!
@@ -67,7 +67,7 @@ export default function Hero() {
       </div>
 
       <div className="md:w-1/2 flex justify-center">
-        <a href="https://wa.me/254706874794" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" target="_blank" rel="noopener noreferrer">
           <img
             src="https://i.imgur.com/NLjjHMk.png"
             alt="Professional resume services"

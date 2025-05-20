@@ -37,7 +37,7 @@ export default function Home() {
               Our Services
             </AnimatedHeader>
             <p className="text-center text-lg mb-10">
-              We offer professional career document services to help you stand out.
+              We offer professional career document writing services to help you stand out.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
