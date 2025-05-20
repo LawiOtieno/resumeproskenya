@@ -4,7 +4,7 @@ export const services = [
     id: "ats-cv",
     name: "ATS-Compliant CV / Résumé",
     description: "A professionally formatted résumé designed to pass Applicant Tracking Systems, with strategic keyword placement and achievement-focused content.",
-    price: 1500,
+    price: 850,
     image: "https://i.imgur.com/m0giHCb.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250",
     features: [
       "Keyword optimization for ATS systems",
@@ -26,7 +26,7 @@ export const services = [
     id: "cover-letter",
     name: "Cover Letter Customization",
     description: "A tailored cover letter that highlights your unique skills and experiences, aligns with the job description, and grabs the recruiter's attention.",
-    price: 800,
+    price: 500,
     image: "https://i.imgur.com/oyYldsn.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250",
     features: [
       "Personalized, company-specific content",
@@ -48,7 +48,7 @@ export const services = [
     id: "linkedin-optimization",
     name: "LinkedIn Profile Optimization",
     description: "Comprehensive review and enhancement of your LinkedIn headline, summary, experience, and skills to boost visibility and networking opportunities.",
-    price: 1200,
+    price: 1000,
     image: "https://i.imgur.com/m0dgk1j.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250",
     features: [
       "Keyword-rich headline and summary",
@@ -71,7 +71,7 @@ export const services = [
     id: "portfolio-website",
     name: "Portfolio Website Creation",
     description: "A sleek, mobile-friendly personal website showcasing your projects, bio, and contact details, fully responsive across devices.",
-    price: 5000,
+    price: 4500,
     image: "https://i.imgur.com/inoJLcr.jpg?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250",
     features: [
       "3-5 page responsive website",
