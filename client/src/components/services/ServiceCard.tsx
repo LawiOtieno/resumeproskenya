@@ -12,7 +12,7 @@ interface ServiceProps {
 
 export default function ServiceCard({ service }: ServiceProps) {
   const whatsappMessage = encodeURIComponent(
-    `Hello *ResumeProsKenya*, 👋 I would like you to offer me *${service.name}*: https://resumeproskenya.com/services/${service.id}`
+    `Hello *ResumeProsKenya*, 👋 I would like you to offer me *${service.name}*: https://resumeproskenya.vercel.app/services/${service.id}`
   );
 
   return (

@@ -83,7 +83,7 @@ export default function ServiceDetails() {
               
               <div className="mt-8">
                 <a 
-                  href={`https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*,%20👋%20I%20would%20like%20you%20to%20offer%20me%20*${encodeURIComponent(service.name)}*:%20https://resumeproskenya.com/services/${service.id}`}
+                  href={`https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*,%20👋%20I%20would%20like%20you%20to%20offer%20me%20*${encodeURIComponent(service.name)}*:%20https://resumeproskenya.vercel.app/services/${service.id}`}
                   className="bg-primary-red hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg shadow-md inline-flex items-center transition-colors"
                 >
                   <i className="fab fa-whatsapp mr-2"></i> Order via WhatsApp
