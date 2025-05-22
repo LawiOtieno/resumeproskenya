@@ -35,11 +35,11 @@ export default function Header() {
       <div className="bg-black text-white py-2 px-4 md:px-6">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-2 md:mb-0">
-            <a href="mailto:ResumeProsKenya@gmail.com" className="flex items-center mr-4 text-sm hover:text-red-500 transition-colors">
+            <a href="mailto:ResumeProsKenya@gmail.com" target="_blank" rel="noopener noreferrer" className="flex items-center mr-4 text-sm hover:text-red-500 transition-colors">
               <FaEnvelope className="mr-2" size={14} />
               ResumeProsKenya@gmail.com
             </a>
-            <a href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" className="flex items-center text-sm hover:text-red-500 transition-colors">
+            <a href="https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*%20%F0%9F%91%8B%F0%9F%8F%BB" target="_blank" rel="noopener noreferrer" className="flex items-center text-sm hover:text-red-500 transition-colors">
               <FaWhatsapp className="mr-2" size={14} />
               +254 706874794
             </a>

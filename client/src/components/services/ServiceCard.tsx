@@ -37,6 +37,7 @@ export default function ServiceCard({ service }: ServiceProps) {
           <a 
             href={`https://wa.me/254706874794?text=${whatsappMessage}`}
             className="flex-1 bg-green-500 text-white font-medium py-2 px-4 rounded hover:bg-red-700 transition-colors flex items-center justify-center"
+            target="_blank" rel="noopener noreferrer"
           >
             <i className="fab fa-whatsapp mr-2"></i> Order
           </a>

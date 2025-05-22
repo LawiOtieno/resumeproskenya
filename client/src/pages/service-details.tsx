@@ -84,7 +84,7 @@ export default function ServiceDetails() {
               <div className="mt-8">
                 <a 
                   href={`https://wa.me/254706874794?text=Hello%20*ResumeProsKenya*,%20👋%20I%20would%20like%20you%20to%20offer%20me%20*${encodeURIComponent(service.name)}*:%20https://resumeproskenya.vercel.app/services/${service.id}`}
-                  className="bg-green-500 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg shadow-md inline-flex items-center transition-colors"
+                  className="bg-green-500 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg shadow-md inline-flex items-center transition-colors" target="_blank" rel="noopener noreferrer"
                 >
                   <i className="fab fa-whatsapp mr-2"></i> Order via WhatsApp
                 </a>
@@ -92,7 +92,7 @@ export default function ServiceDetails() {
 
               <div className="mt-8">
                 <a 
-                  href="https://forms.gle/8QJELYJy4T2YquDE6" style={{ color: "#7248B9" }}
+                  href="https://forms.gle/8QJELYJy4T2YquDE6" style={{ color: "#7248B9" }} target="_blank" rel="noopener noreferrer"
                   className="text-white font-bold py-3 px-6 rounded-lg shadow-md inline-flex items-center transition-colors"
                 >
                   <i className="fa-solid fa-file-contract mr-2"></i> Fill Form
